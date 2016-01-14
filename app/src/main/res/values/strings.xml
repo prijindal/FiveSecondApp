@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Five Second App</string>
+    <string name="drawer_header_text">Priyanshu Jindal</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_recent_searches">Recent</string>
+    <string name="movies">Movies</string>
+</resources>
